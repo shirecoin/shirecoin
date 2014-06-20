@@ -1,0 +1,9 @@
+Building Shirecoin
+
+See doc/readme-qt.rst for instructions on building Shirecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Shirecoin.
+
+See doc/build-*.txt for instructions on building shirecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Shirecoin.
